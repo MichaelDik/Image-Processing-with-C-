@@ -1,0 +1,3 @@
+﻿  ppm.cpp
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\ppm\ppm.cpp(64,19): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  ppm.vcxproj -> C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\ppm\ppm_d.lib

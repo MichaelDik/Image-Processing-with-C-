@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(42,47): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(42,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(42,72): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(42,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(60,33): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\image\FilterBlur.h(70,33): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  LINK : C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\Debug\filterd.exe not found or not built by the last incremental link; performing full link
+  Main_Project.vcxproj -> C:\Users\mixgeo\Desktop\Department of Informatics\3o Εξάμηνο\Προγραμματισμός Υπολογιστών με C++\Assignment\Debug\filterd.exe
